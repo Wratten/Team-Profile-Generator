@@ -38,6 +38,8 @@
 
     Run npm test to use all the tests developed for this app
 
+![](tpg-test.gif)
+
 ## License
 
     This project is using the MIT license.
