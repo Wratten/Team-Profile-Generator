@@ -1,0 +1,17 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+nav {
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
+
+body {
+  background-color: rgb(245, 245, 245);
+}
+
+.card-header {
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
